@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mia</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        nav {
+            margin-top: 20px;
+        }
+        nav a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+        img {
+            max-width: 300px;
+            margin-top: 20px;
+        }
+        p {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mia</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="luke.html">Luke</a>
+        <a href="spock.html">Spock</a>
+    </nav>
+    <img src="Images/Mia.jpeg" alt="Foto da Mia">
+    <p>Mia é uma gata curiosa que adora explorar novos lugares. Sua paixão por caixas é inigualável, sempre buscando a mais aconchegante para se esconder. Com olhos atentos, ela observa tudo ao seu redor, pronta para qualquer aventura. Sua pelagem listrada é como um mapa de suas travessuras. Todos os dias, Mia nos surpreende com sua energia e carinho.</p>
+</body>
+</html>

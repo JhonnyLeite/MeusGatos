@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meus Gatos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        nav {
+            margin-top: 20px;
+        }
+        nav a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+        h1 {
+            margin-top: 50px;
+        }
+        img {
+            max-width: 600px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Meus Gatos</h1>
+    <nav>
+        <a href="mia.html">Mia</a>
+        <a href="luke.html">Luke</a>
+        <a href="spock.html">Spock</a>
+    </nav>
+    <img src="Images/Home.jpeg" alt="Meus Gatos">
+</body>
+</html>

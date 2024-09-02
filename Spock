@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spock</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        nav {
+            margin-top: 20px;
+        }
+        nav a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+        img {
+            max-width: 300px;
+            margin-top: 20px;
+        }
+        p {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Spock</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="mia.html">Mia</a>
+        <a href="luke.html">Luke</a>
+    </nav>
+    <img src="Images/Spock.jpeg" alt="Foto do Spock">
+    <p>Spock é um gato cheio de personalidade e estilo. Com seu pelo preto e branco, ele parece estar sempre vestido para uma ocasião especial. Seu olhar intenso e curioso revela um explorador nato, sempre em busca de novas aventuras e mistérios para desvendar. Ele adora ficar deitado em lugares macios, mas nunca perde a chance de mostrar seu lado brincalhão. Spock é um gato que cativa todos com seu charme e energia única.</p>
+</body>
+</html>

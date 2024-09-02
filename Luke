@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luke</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        nav {
+            margin-top: 20px;
+        }
+        nav a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+        img {
+            max-width: 300px;
+            margin-top: 20px;
+        }
+        p {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Luke</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="mia.html">Mia</a>
+        <a href="spock.html">Spock</a>
+    </nav>
+    <img src="Images/Luke.jpeg" alt="Foto do Luke">
+    <p>Luke é um gato sereno, conhecido por sua postura elegante e olhar atento. Ele gosta de passar horas descansando em lugares confortáveis, sempre à procura do ponto perfeito de tranquilidade. Sua pelagem branca e laranja reflete sua personalidade calma, mas não se engane: ele adora uma brincadeira animada quando menos se espera. Com seu jeito charmoso, Luke conquista todos ao seu redor. Ele é um verdadeiro rei em seu reino felino.</p>
+</body>
+</html>
